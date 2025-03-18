@@ -6,6 +6,7 @@ menu = {
     'salad':100,
 }
 
+
 print("Welcome to our restaurant!")
 print("Pizza : Rs40\nPasta : Rs50\nBurger : Rs60\nCoffee : Rs80\nSalad : Rs100")
 
