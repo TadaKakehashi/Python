@@ -1,5 +1,4 @@
 import random
-
 score = 0
 tie = 0
 lose = 0
