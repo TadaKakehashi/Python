@@ -18,7 +18,6 @@ recipes = {
 
 profit = 0.0
 
-
 def is_resource_sufficient(recipe):
     for item in recipe:
         if recipe[item] > coffee_resource.get(item, 0):
